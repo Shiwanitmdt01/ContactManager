@@ -12,11 +12,11 @@ This is a simple Contact Manager system written in C.
 - Validate phone numbers and emails
 
 ## Modules
-1st.c – authentication
-2nd.c – contact operations
-3rd.c – search contact
-4th.c – file handling
-5th.c – validation
+- authentication.c – handles login and registration
+- contact_operations.c – add, delete, update contacts
+- search.c – search contacts
+- file_handler.c – save and load contacts
+- validation.c – email and phone validation
 
 ## How to Run
 
